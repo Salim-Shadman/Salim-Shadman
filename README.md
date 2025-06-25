@@ -4,23 +4,27 @@
 ---
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 
-- 🔭 Currently working on **MERN Stack Web Applications**  
-- 🌱 Learning **React** & **Advanced Node.js**  
-- 👯 Looking to collaborate on **Open Source** and **Freelance Projects**  
-- 💬 Ask me about: `React`, `Node`, `MongoDB`, `Express`  
-- 📫 Reach me at: **s.m.salimshadman@gmail.com**  
-- ⚡ Fun Fact: I love writing **clean code** & debugging like a detective 🕵️‍♂️  
+<ul>
+  <li>🔭 Currently working on <strong>MERN Stack Web Applications</strong></li>
+  <li>🌱 Learning <strong>React</strong> & <strong>Advanced Node.js</strong></li>
+  <li>👯 Looking to collaborate on <strong>Open Source</strong> and <strong>Freelance Projects</strong></li>
+  <li>💬 Ask me about: <code>React</code>, <code>Node</code>, <code>MongoDB</code>, <code>Express</code></li>
+  <li>📫 Reach me at: <a href="mailto:s.m.salimshadman@gmail.com">s.m.salimshadman@gmail.com</a></li>
+  <li>⚡ Fun Fact: I love writing <strong>clean code</strong> & debugging like a detective 🕵️‍♂️</li>
+</ul>
 
-</td>
-<td>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="300px"/>
-</td>
-</tr>
-</table>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="95%" alt="GIF of tech stack">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 👨‍🔬 My Developer Persona
 
