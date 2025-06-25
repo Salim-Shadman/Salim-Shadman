@@ -71,12 +71,7 @@
 
 ---
 
-## 🏆 Certifications & Achievements *(optional)*
 
-- ✅ React Developer Certification — [Platform]
-- ✅ MongoDB for Node.js Developers — [Platform]
-- 🏅 Problem Solving Badge – HackerRank
-- 🛠️ 100+ GitHub contributions in a single month!
 
 ---
 
@@ -90,10 +85,8 @@
 
 ---
 
-## 🧭 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=Salim-Shadman&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
+
 
 <!-- Proudly crafted by Salim Shadman with ❤️ using GPRM (https://gprm.itsvg.in) -->
