@@ -17,10 +17,9 @@
   <li>📫 Reach me at: <a href="mailto:s.m.salimshadman@gmail.com">s.m.salimshadman@gmail.com</a></li>
   <li>⚡ Fun Fact: I love writing <strong>clean code</strong> & debugging like a detective 🕵️‍♂️</li>
 </ul>
-
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="95%" alt="GIF of tech stack">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" alt="GIF of tech stack">
       </td>
     </tr>
   </table>
