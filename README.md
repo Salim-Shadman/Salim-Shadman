@@ -5,21 +5,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN Stack Web Applications**
-- 🌱 I’m currently learning **React ** & **Advanced Node.js**
-- 👯 I’m looking to collaborate on **open source projects** and freelance gigs
-- 💬 Ask me about **React, Node, MongoDB, Express**
-- 📫 How to reach me: **s.m.salimshadman@gmail.com**
-- ⚡ Fun fact: I love writing clean code & debugging like a detective 🕵️‍♂️
-
-
-
-
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="360px"/>
 
+- 🔭 Currently working on **MERN Stack Web Applications**
+- 🌱 Learning **React** & **Advanced Node.js**
+- 👯 Looking to collaborate on **Open Source** and **Freelance Projects**
+- 💬 Ask me about: `React`, `Node`, `MongoDB`, `Express`
+- 📫 Reach me at: **s.m.salimshadman@gmail.com**
+- ⚡ Fun Fact: I love writing **clean code** & debugging like a detective 🕵️‍♂️
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -53,7 +48,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Salim-Shadman&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
@@ -63,30 +58,40 @@
 
 ---
 
-## 📂 My Projects (Highlighted)
+## 🚀 Featured Projects
 
-| Name | Stack | Demo |
-|------|-------|------|
+| 💼 Project Name | ⚙️ Tech Stack | 🔗 Demo |
+|----------------|---------------|---------|
 | **BillPay BD** | React, Node.js, MongoDB, Firebase | [Live Site](https://example.com) |
-| **Parcel Hero** | Leaflet.js, Vite, Tailwind | [Live Site](https://example.com) |
+| **Parcel Hero** | Leaflet.js, Vite, TailwindCSS | [Live Site](https://example.com) |
 | **Todo Task API** | Express, MongoDB, Postman | [Live API](https://example.com) |
-| **Portfolio Site** | Next.js, Vercel, Figma Design | [Live](https://example.com) |
+| **Portfolio Website** | Next.js, Tailwind, Figma | [Live](https://example.com) |
 
-_👉 DM me to see private projects or freelance work._
+> _🗂️ Want to see more? DM me for private projects & freelance works._
+
+---
+
+## 🏆 Certifications & Achievements *(optional)*
+
+- ✅ React Developer Certification — [Platform]
+- ✅ MongoDB for Node.js Developers — [Platform]
+- 🏅 Problem Solving Badge – HackerRank
+- 🛠️ 100+ GitHub contributions in a single month!
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:salimshadman.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/salim-shadman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://facebook.com/salimshadman"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:s.m.salimshadman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/salim-shadman"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://facebook.com/salimshadman"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧭 Visitor Counter
+
 [![](https://visitcount.itsvg.in/api?id=Salim-Shadman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
