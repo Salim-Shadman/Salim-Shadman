@@ -16,26 +16,6 @@
 
 ---
 
-
-``` Javascript
-const thal C
-pronouns:
-"she" "her",
-code: [Javascript, Typescript, ims, CSS, Ruby, Python, Java],
-tools: [React, Redux, hode, Storybook, Styled Components, Jest, Docker],
-architecture: ["microservices", "event-driven", "design system pattern"],
-techCommunities:
-(
-coorganizer:
-"AfroPython",
-speaker:
-"Latinity",
-sentor:
-"EducaTRANS forsa
-challenge: "I
-am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -80,18 +60,14 @@ am doing the #100DaysOfCode challenge focused on react and typescript"
 
 ## 🚀 Featured Projects
 
-| 💼 Project Name | ⚙️ Tech Stack | 🔗 Demo |
-|----------------|---------------|---------|
-| **BillPay BD** | React, Node.js, MongoDB, Firebase | [Live Site](https://example.com) |
-| **Parcel Hero** | Leaflet.js, Vite, TailwindCSS | [Live Site](https://example.com) |
-| **Todo Task API** | Express, MongoDB, Postman | [Live API](https://example.com) |
-| **Portfolio Website** | Next.js, Tailwind, Figma | [Live](https://example.com) |
+| 💼 Project Name     | ⚙️ Tech Stack                      | 🔗 Demo                 |
+|---------------------|------------------------------------|--------------------------|
+| **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://example.com) |
+| **Parcel Hero**     | Leaflet.js, Vite, TailwindCSS     | [Live Site](https://example.com) |
+| **Todo Task API**   | Express, MongoDB, Postman         | [Live API](https://example.com) |
+| **Portfolio Website** | Next.js, Tailwind, Figma        | [Live](https://example.com) |
 
 > _🗂️ Want to see more? DM me for private projects & freelance works._
-
----
-
-
 
 ---
 
@@ -105,8 +81,10 @@ am doing the #100DaysOfCode challenge focused on react and typescript"
 
 ---
 
+## 🧭 Visitor Counter
 
+[![](https://visitcount.itsvg.in/api?id=Salim-Shadman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+---
 
 <!-- Proudly crafted by Salim Shadman with ❤️ using GPRM (https://gprm.itsvg.in) -->
