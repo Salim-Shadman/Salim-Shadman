@@ -16,6 +16,26 @@
 
 ---
 
+
+``` Javascript
+const thal C
+pronouns:
+"she" "her",
+code: [Javascript, Typescript, ims, CSS, Ruby, Python, Java],
+tools: [React, Redux, hode, Storybook, Styled Components, Jest, Docker],
+architecture: ["microservices", "event-driven", "design system pattern"],
+techCommunities:
+(
+coorganizer:
+"AfroPython",
+speaker:
+"Latinity",
+sentor:
+"EducaTRANS forsa
+challenge: "I
+am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
