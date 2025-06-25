@@ -89,7 +89,7 @@ const salimShadman = {
 | 💼 Project Name     | ⚙️ Tech Stack                      | 🔗 Demo                 |
 |---------------------|------------------------------------|--------------------------|
 | **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://example.com](https://bill-management-app-6d5d4.web.app/profile) |
-| **Parcel Hero**     | Leaflet.js, Vite, TailwindCSS     | [Live Site](https://example.com) |
+| **AthleticHub**     | Express, MongoDB, DaisyUi     | [Live Site](https://example.com](https://freelancer-489e7.web.app) |
 | **Todo Task API**   | Express, MongoDB, Postman         | [Live API](https://example.com) |
 | **Portfolio Website** | Next.js, Tailwind, Figma        | [Live](https://example.com) |
 
