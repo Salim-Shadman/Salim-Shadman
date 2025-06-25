@@ -16,6 +16,23 @@
 
 ---
 
+## 👨‍🔬 My Developer Persona
+
+```js
+const salimShadman = {
+  pronouns: ["he", "him"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java"],
+  tools: ["React", "Redux", "Node.js", "TailwindCSS", "Jest", "Docker", "Figma"],
+  architecture: ["Microservices", "Event-driven", "Design System Pattern"],
+  currentlyLearning: ["TypeScript", "System Design"],
+  challenge: "#100DaysOfCode focused on React & TypeScript",
+  techCommunities: {
+    contributor: ["Open Source", "Local Dev Events"],
+    mentor: ["Beginner Devs", "College Juniors"]
+  }
+};
+```
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
