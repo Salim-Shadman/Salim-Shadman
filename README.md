@@ -2,19 +2,25 @@
 <p align="center">🚀 A Passionate Full Stack Web Developer from Bangladesh 🇧🇩</p>
 
 ---
-
 ## 🧑‍💻 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="360px"/>
+<table>
+<tr>
+<td>
 
-- 🔭 Currently working on **MERN Stack Web Applications**
-- 🌱 Learning **React** & **Advanced Node.js**
-- 👯 Looking to collaborate on **Open Source** and **Freelance Projects**
-- 💬 Ask me about: `React`, `Node`, `MongoDB`, `Express`
-- 📫 Reach me at: **s.m.salimshadman@gmail.com**
-- ⚡ Fun Fact: I love writing **clean code** & debugging like a detective 🕵️‍♂️
+- 🔭 Currently working on **MERN Stack Web Applications**  
+- 🌱 Learning **React** & **Advanced Node.js**  
+- 👯 Looking to collaborate on **Open Source** and **Freelance Projects**  
+- 💬 Ask me about: `React`, `Node`, `MongoDB`, `Express`  
+- 📫 Reach me at: **s.m.salimshadman@gmail.com**  
+- ⚡ Fun Fact: I love writing **clean code** & debugging like a detective 🕵️‍♂️  
 
----
+</td>
+<td>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="300px"/>
+</td>
+</tr>
+</table>
 
 ## 👨‍🔬 My Developer Persona
 
