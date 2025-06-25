@@ -104,10 +104,4 @@ const salimShadman = {
 
 ---
 
-## 🧭 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=Salim-Shadman&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly crafted by Salim Shadman with ❤️ using GPRM (https://gprm.itsvg.in) -->
