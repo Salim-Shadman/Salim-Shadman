@@ -12,12 +12,12 @@
 - 📫 How to reach me: **s.m.salimshadman@gmail.com**
 - ⚡ Fun fact: I love writing clean code & debugging like a detective 🕵️‍♂️
 
----
 
 
----
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="360px"/>
----
+
 
 
 
