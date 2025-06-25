@@ -14,6 +14,13 @@
 
 ---
 
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/techstack.gif" width="360px"/>
+
+
+
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
