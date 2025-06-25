@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salim Shadman</h1>
-<p align="center">🚀 A Passionate Full Stack Web Developer from Bangladesh 🇧🇩</p>
+<p align="center">🚀 A Passionate Full Stack Web Developer from Bangladesh</p>
 
 ---
 ## 🧑‍💻 About Me
