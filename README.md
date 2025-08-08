@@ -88,7 +88,7 @@ const salimShadman = {
 
 | 💼 Project Name     | ⚙️ Tech Stack                      | 🔗 Demo                 |
 |---------------------|------------------------------------|--------------------------|
-| **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://example.com](https://bill-management-app-6d5d4.web.app/profile) |
+| **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://bill-management-app-6d5d4.web.app/profile) |
 | **AthleticHub**     | Express, MongoDB, DaisyUi     | [Live Site](https://example.com](https://freelancer-489e7.web.app) |
 
 
