@@ -91,7 +91,7 @@ const salimShadman = {
 
 | 💼 Project Name     | ⚙️ Tech Stack                      | 🔗 Demo                 |
 |---------------------|------------------------------------|--------------------------|
-| **StudyPlatform**      | React, Node.js, MongoDB, Firebase, Axios, Stripe API | [Live Site](https://ph-assignment-12-ameo.web.app)) |
+| **StudyPlatform**      | React, Node.js, MongoDB, Firebase, Axios, Stripe API | [Live Site](https://ph-assignment-12-ameo.web.app) |
 | **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://bill-management-app-6d5d4.web.app/profile) |
 | **AthleticHub**     | Express, MongoDB, DaisyUi | [Live Site](https://athletic-e8d0b.web.app) |
 
@@ -104,7 +104,7 @@ const salimShadman = {
 
 <p align="left">
   <a href="mailto:s.m.salimshadman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/sm-salim-shadman"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="(https://www.linkedin.com/in/sm-salim-shadman)"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://facebook.com/salimshadman"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
