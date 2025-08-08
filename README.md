@@ -1,3 +1,7 @@
+
+<img src="https://raw.githubusercontent.com/Salim-Shadman/Salim-Shadman/main/Blue%20Minimalist%20Game%20Developer%20LinkedIn%20Banner.png" alt="Banner" width="100%">
+
+
 ## 🧑‍💻 About Me
 
 Hi, I’m Salim Shadman — a Full Stack Web Developer from Bangladesh with a love for clean UI and efficient back-end systems.  
