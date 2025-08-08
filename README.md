@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Salim Shadman</h1>
-<p align="center">🚀 A Passionate Full Stack Web Developer from Bangladesh</p>
+## 🧑‍💻 About Me
+
+Hi, I’m Salim Shadman — a Full Stack Web Developer from Bangladesh with a love for clean UI and efficient back-end systems.  
+I'm currently learning advanced Node.js and React while working on real-life MERN projects.  
+Also, I’m a Statistics Honours student at Govt. Azizul Haque College.
+
 
 ---
-## 🧑‍💻 About Me
 
 <div align="center">
   <table>
