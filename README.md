@@ -91,8 +91,9 @@ const salimShadman = {
 
 | 💼 Project Name     | ⚙️ Tech Stack                      | 🔗 Demo                 |
 |---------------------|------------------------------------|--------------------------|
+| **StudyPlatform**      | React, Node.js, MongoDB, Firebase, Axios, Stripe API | [Live Site](https://ph-assignment-12-ameo.web.app)) |
 | **BillPay BD**      | React, Node.js, MongoDB, Firebase | [Live Site](https://bill-management-app-6d5d4.web.app/profile) |
-| **AthleticHub**     | Express, MongoDB, DaisyUi     | [Live Site](https://athletic-e8d0b.web.app/)) |
+| **AthleticHub**     | Express, MongoDB, DaisyUi | [Live Site](https://athletic-e8d0b.web.app) |
 
 
 > _🗂️ Want to see more? DM me for private projects & freelance works._
